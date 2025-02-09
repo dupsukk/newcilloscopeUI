@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoont\\source\\repos\\guitest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF61CBA-E8BA-40C4-B569-4B220D349718}|guitest\\guitest.vcxproj|C:\\Users\\yoont\\source\\repos\\guitest\\guitest\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF61CBA-E8BA-40C4-B569-4B220D349718}|guitest\\guitest.vcxproj|solutionrelative:guitest\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\yoont\\source\\repos\\guitest\\guitest\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "guitest\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\yoont\\source\\repos\\guitest\\guitest\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "guitest\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T06:41:12.557Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
