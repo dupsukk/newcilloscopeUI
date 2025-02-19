@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoont\\source\\repos\\oscillo_gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8873F49-BF93-497F-B5A2-FCC08118DF1A}|oscillo_gui\\oscillo_gui.vcxproj|C:\\Users\\yoont\\source\\repos\\oscillo_gui\\oscillo_gui\\oscillo_gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8873F49-BF93-497F-B5A2-FCC08118DF1A}|oscillo_gui\\oscillo_gui.vcxproj|solutionrelative:oscillo_gui\\oscillo_gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oscillo_gui.cpp",
+              "DocumentMoniker": "C:\\Users\\yoont\\source\\repos\\oscillo_gui\\oscillo_gui\\oscillo_gui.cpp",
+              "RelativeDocumentMoniker": "oscillo_gui\\oscillo_gui.cpp",
+              "ToolTip": "C:\\Users\\yoont\\source\\repos\\oscillo_gui\\oscillo_gui\\oscillo_gui.cpp",
+              "RelativeToolTip": "oscillo_gui\\oscillo_gui.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T13:29:03.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
